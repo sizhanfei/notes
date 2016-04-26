@@ -39,6 +39,5 @@ public class work_0413 {
 		work_0413 kehu= new work_0413();
 	        kehu.tianjiamingzi();
 	        kehu.xianshimingzi();
-
 	}
 }
